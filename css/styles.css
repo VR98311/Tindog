@@ -71,10 +71,18 @@
 .dog-img{
     border-radius: 100%;
     margin: 10px;
-    width: 25%;
+    width: 15%;
 }
 #press{
-    padding: 7% 3%;;
+    padding: 3% 3%;
+    background-color: #ef8172;
+    text-align: center;
+}
+
+.pressimg{
+    width: 15%;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 
@@ -96,4 +104,7 @@ h3{
 }
 h2{
     padding: 5%;
+    line-height: 1.5;
+    width: 90%;
+    margin: auto;
 }
