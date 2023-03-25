@@ -132,7 +132,7 @@
 }
 
 #cta {
-    padding: 3% 15%;
+    padding: 5% 15%;
     text-align: center;
     background-color: #ff4c68;
 }
@@ -150,6 +150,8 @@
     font-size: 3rem;
     line-height: 1.5;
     color: white;
+    width: 80%;
+    margin: auto;
 }
 .icon{
     padding: 5% 1% 0% 1%;
