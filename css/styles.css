@@ -1,4 +1,5 @@
 
+/* title */
 
 #title {
     background-color: #ff4c68;
@@ -51,7 +52,9 @@
 
 .downloadbtn {
     margin: 5% 3% 5% 0;
+
 }
+/* feature */
 
 .bi-check-circle {
     font-size: 5rem;
@@ -92,6 +95,8 @@
     position: relative;
 }
 
+/* testimonials */
+
 #testimonials {
     padding: 7% 15%;
     background-color: #ef8172;
@@ -125,26 +130,27 @@
     padding-left: 12%;
 }
 
+
 /* Pricing */
+
+
 #pricing {
     padding: 3% 15%;
     text-align: center;
 }
+.card-group{
+    padding: 3%;
+}
+
+/* cta */
 
 #cta {
     padding: 5% 15%;
     text-align: center;
     background-color: #ff4c68;
 }
-#footer{
-    padding: 3% 15% 0% 15%;
-    text-align: center;
-}
 .description{
     font-size: 3rem;
-}
-.card-group{
-    padding: 3%;
 }
 .ctatext{
     font-size: 3rem;
@@ -156,6 +162,16 @@
 .icon{
     padding: 5% 1% 0% 1%;
 }
+
+/* footer */
+
+#footer{
+    padding: 3% 15% 0% 15%;
+    text-align: center;
+}
+
+
+/* common selectors */
 
 h1 {
     font-size: 3.5rem;
